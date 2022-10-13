@@ -1,0 +1,10 @@
+.cardBox{
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr );
+    column-gap: 20px;
+    width: 90%;
+    margin: auto;
+    background-color:rgb(179, 177, 177);
+    border-radius: 20px;
+}
+
